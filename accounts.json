@@ -1,5 +1,5 @@
 {
-    "alice": "password123",
-    "bob": "securePass!",
-    "charlie": "qwerty2025"
+    "example": "base64pass",
+    "example1": "base64pass",
 }
+
